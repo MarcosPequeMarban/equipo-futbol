@@ -8,3 +8,4 @@
 "Raúl Albiol" 
 "Gerard Moreno" 
 "Dani Parejo" 
+"Etiene Capoue" 
