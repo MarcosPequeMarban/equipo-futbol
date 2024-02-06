@@ -7,3 +7,4 @@
 "Ben Brereton" 
 "Raúl Albiol" 
 "Gerard Moreno" 
+"Dani Parejo" 
