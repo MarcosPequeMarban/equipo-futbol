@@ -1,2 +1,2 @@
 "Lista de médicos"
-"Doctor Elm"
+"Doctor Elm" (diagnosted) 
