@@ -11,3 +11,4 @@
 "Etiene Capoue" 
 "Alex Baena" 
 "Jugador Nuevo"
+"Damian Suarez"
